@@ -1,0 +1,10 @@
+{
+  "name": "BorisFedyuchok/MyLogger",
+
+  "description": "This package is my homework",
+
+  "require": {
+    "php": ">=7.4"
+  },
+
+}
