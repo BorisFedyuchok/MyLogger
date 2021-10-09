@@ -1,6 +1,6 @@
 <?php
 
-namespace BorysFedyuchok\MyLogger;
+namespace boris1310\my_logger;
 
 class Logger
 {
