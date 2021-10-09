@@ -1,7 +1,8 @@
 {
-  "name": "BorisFedyuchok/MyLogger",
+  "name": "boris1310/my-logger",
 
   "description": "This package is my homework",
+  "homepage": "https://github.com/boris1310/my-logger",
 
   "require": {
     "php": ">=7.4"
